@@ -107,7 +107,9 @@ else:
     print("No solution found.")
 
 ~~~
-</h3>Output:</h3>
+
+
+</h2>Output</h2>
 
 <img width="201" height="91" alt="image" src="https://github.com/user-attachments/assets/74c6d523-3c72-4d28-a0df-52ad5fe5e9c4" />
 
