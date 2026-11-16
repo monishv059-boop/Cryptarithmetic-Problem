@@ -111,6 +111,7 @@ else:
 
 </h2>Output</h2>
 
+<img width="201" height="91" alt="image" src="https://github.com/user-attachments/assets/cef98a4b-d634-4266-b49d-aea554302904" />
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
